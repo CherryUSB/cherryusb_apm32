@@ -1,0 +1,15 @@
+#忽略目录
+Project\MDK\Objects
+Project\MDK\Listings
+
+#忽略文件扩展名
+*.bak
+*.bin
+*.lst
+*.Administrator
+*.uvoptx
+*.scvd
+
+
+
+
